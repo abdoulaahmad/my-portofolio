@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Camera, Aperture, Maximize2, Image as ImageIcon } from 'lucide-react';
+import { Aperture, Maximize2 } from 'lucide-react';
 
 const photos = [
     {

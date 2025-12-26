@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Code, Database, Layout, Server, Cpu, Terminal, Cloud, Activity, Layers } from 'lucide-react';
+import { Database, Layout, Server, Cpu, Terminal, Cloud, Activity, Layers } from 'lucide-react';
 
 const skills = [
     { icon: <Layout />, name: "FRONTEND", desc: "React, Framer, Tailwind", color: "text-blue-400", border: "border-blue-500/50" },

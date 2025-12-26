@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Mail, Calendar, ArrowRight, MessageSquare, Shield, Terminal } from 'lucide-react';
+import { Mail, Calendar, ArrowRight, Shield, Terminal } from 'lucide-react';
 
 export const Contact = () => {
     return (

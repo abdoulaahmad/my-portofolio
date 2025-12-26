@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { ExternalLink, FileText, FileCode, Database, Share2, Loader, CheckCircle } from 'lucide-react';
+import { FileCode, Database, Share2, Loader, CheckCircle } from 'lucide-react';
 
 const publications = [
     {

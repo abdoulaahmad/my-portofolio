@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Users, Calendar, MapPin, Radio, Globe, MessageSquare } from 'lucide-react';
+import { Calendar, MapPin, Radio, Globe, MessageSquare } from 'lucide-react';
 
 const events = [
     {

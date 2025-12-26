@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { ArrowRight, Download, Cpu, Computer, Globe, Zap } from 'lucide-react';
+import { ArrowRight, Computer } from 'lucide-react';
 import { ScrambleText } from './ScrambleText';
 
 export const Hero = () => {
